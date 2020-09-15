@@ -18,17 +18,17 @@ If you are here review my job appliction here's a little recap:
 * Deploy and maintain inference pipeline in a Kubernetes environment
 * Participation in the 2019 Traffic4cast NeurIPS challenge using a 3DCNN
 
-### :kr: Naver *AI research intern* (April - October 2019)
+### :kr: [Naver](https://clova.ai/en/research/research-areas.html) *AI research intern* (April - October 2019)
 * State of the Art Q&A model implementation in PyTorch
 * Productionize chit chat system using elastic search caching
 * Deep neural net hyper-parameter tuning using [NSML](https://ai.nsml.navercorp.com/intro)
 
-### :fr: Advanced Schema *Frontend internship* (September - December 2016)
+### :fr: [Advanced Schema](https://www.advanced-schema.com/home) *Frontend internship* (September - December 2016)
 * Implementation of a custom data visualization tool in Angular2
 * Creation of tools for BI data processing
 * Organization of a crypto party for the whole R&D department
 
-### :fr: Kubity *Emscripten compilation intern* (January - February 2015)
+### :fr: [Kubity](https://pro.kubity.com/) *Emscripten compilation intern* (January - February 2015)
 * C++ code base modifications for Emscripten compilation to JS.
 * Integration of the generated code to the customer facing front-end.
 
