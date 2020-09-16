@@ -4,7 +4,7 @@ Welcome to my Github profile. Here you can find multiple repos that I created
 since university. Since some of them were eductional projects and other side
 projects, they are quite diverse.
 
-If you are here review my job appliction here's a little recap:
+If you are here review my job application here's a little recap:
 
 ## Experiences
 
