@@ -33,5 +33,6 @@ If you are here review my job application here's a little recap:
 * Integration of the generated code to the customer facing front-end.
 
 ## Projects
+* [Forest-segmentation](https://github.com/trog-levrai/forest-segmentation): A series of tutorials on satellite data
 * [Koku](https://github.com/trog-levrai/koku): A toy crypto currency
 * [Spotlight-helm](https://github.com/trog-levrai/spotlight-helm): A basic helm setup to deploy spotlight on K8S
