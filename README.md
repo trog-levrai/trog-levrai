@@ -2,7 +2,7 @@
 
 I am a software engineer with a strong focuson data science and have worked on different topics such as mobility and remote sensing. During my university years,  I have spent a lot of time getting my hands on all kinds ofcomputer-related problems such as low level, cryptography, graph theory... Among those, I decided to get a specialization in data science. In the past, I’ve had the opportunity to work in France, Korea, and Germany, with very diverse people in multicultural teams. I consider it one of my biggest strengths.
 
-If you are here review my job application here's a little recap:
+If you are here to know a bit more about my background, you can check [trog.me](https://trog.me) or see a little recap below:
 
 ## Experiences
 
